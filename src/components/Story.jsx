@@ -53,7 +53,7 @@ const Story = () => {
         </div>
         
         <motion.img 
-            src="/assets/batman-character.png" 
+            src="/assets/batman.jpeg" 
             alt="Batman" 
             className="absolute bottom-10 left-1/2 -translate-x-1/2 w-64 md:w-80 drop-shadow-2xl z-20"
             initial={{ y: 100, opacity: 0 }}
