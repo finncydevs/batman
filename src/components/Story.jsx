@@ -113,7 +113,7 @@ const Story = () => {
          <h2 className="text-5xl md:text-6xl font-['Pacifico'] text-white drop-shadow-md mb-16 text-center px-4">
              You Brought Color
          </h2>
-         <div className="scale-125 md:scale-150 mb-20">
+         <div className="w-full mb-10">
             <Carousel />
          </div>
          <p className="text-white/60 font-['Fredoka'] mt-10 text-lg animate-pulse">
